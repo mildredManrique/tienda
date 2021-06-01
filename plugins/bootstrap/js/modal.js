@@ -1,0 +1,1 @@
+var valor = document.getElementById("nombre").value;
